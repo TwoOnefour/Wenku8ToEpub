@@ -10,9 +10,7 @@ import threading
 import io
 import re
 import signal
-
 from ebooklib.plugins import ChapterSelector
-
 
 
 class Wenku8ToEpub:
